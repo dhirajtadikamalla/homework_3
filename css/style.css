@@ -16,8 +16,9 @@ body{
   background-size: cover;
   background-position: center;
   background-image: url("../images/pigeon-background.JPEG");
-  background-repeat: no-repeat;
   background-color: #DDDDDD;
+  background-repeat: no-repeat;
+  
 }
 
 main{
@@ -54,7 +55,7 @@ table{
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
